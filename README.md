@@ -8,4 +8,4 @@ Python Libraries used pandas
 Numpy
 Matplotlib
 Seaborn
-sklearn
+Sklearn
